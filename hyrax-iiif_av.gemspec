@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   s.add_dependency "rails", "~>5.1"
   s.add_dependency "blacklight"
   s.add_dependency "hyrax", "3.0.1"
-  s.add_dependency "iiif_manifest", "~> 0.5"
+  s.add_dependency "iiif_manifest", "~> 1.1.0"
 
   s.add_development_dependency 'bixby'
   s.add_development_dependency 'coffee-rails'
